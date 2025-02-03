@@ -9,7 +9,6 @@ body {
     background-color: #f5f5f5;
 }
 
-/* Navigation Styles */
 nav {
     background: white;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -84,7 +83,7 @@ nav {
     margin-top: 1rem;
 }
 
-/* Form Styles */
+/* form */
 .auth-container {
     max-width: 600px;
     margin: 80px auto 0;
@@ -154,7 +153,6 @@ nav {
     color: #666;
 }
 
-/* Mobile Menu */
 .hamburger {
     display: none;
     flex-direction: column;
@@ -169,7 +167,6 @@ nav {
     transition: transform 0.3s ease;
 }
 
-/* Responsive Styles */
 @media (max-width: 768px) {
     .left-nav, .right-nav {
         display: none;
